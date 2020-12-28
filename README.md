@@ -22,3 +22,8 @@ The dataset can be downloaded from https://github.com/prajnasb/observations/tree
 2.Load pre-trained model: We have used pre-trained caffemodel to detect faces in the frames/images and apply those detected face images to the above trained classification model to detect mask in the image 
 
 3.Mark bounding box around the detected face image: Caffemodel with provide the co ordinates of the face image in the full image. These coordinates are used to mark the bounding box around the face along with confidence level from the classification model.
+
+   
+
+
+
