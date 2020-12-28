@@ -3,7 +3,7 @@ In this project, we will train a face mask detector with OpenCV, Keras/TensorFlo
 
 # Steps involved in building face mask detector model
 The model is trained  in jupyter notebook
-1. Load packages: Numpy to work with arrays,os and glob to load folders, Keras with tensorflow as backend for training the model, Matplotlib for plotting graphs and sklearn for model evaluation
+1.Load packages: Numpy to work with arrays,os and glob to load folders, Keras with tensorflow as backend for training the model, Matplotlib for plotting graphs and sklearn for model evaluation
 
 2.Loading data - The dataset used in the project consists of 1915 with mask and 1918 with out mask images.
 The dataset can be downloaded from https://github.com/prajnasb/observations/tree/master/experiements/data github portal
