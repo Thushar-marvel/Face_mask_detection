@@ -17,7 +17,7 @@ The dataset can be downloaded from https://github.com/prajnasb/observations/tree
 6.Model evaluation: The developed model got an training accuracy of 97.8% and test accuracy of 97.5%
 
 
-[image](https://github.com/Thushar-marvel/Face_mask_detection/blob/main/Screenshot%20(63).png)
+![image](https://github.com/Thushar-marvel/Face_mask_detection/blob/main/Screenshot%20(63).png)
 
 # Steps involved in real time face mask detector using open cv:
 1.Load pacakages: Along with above loaded package opencv is installed.
