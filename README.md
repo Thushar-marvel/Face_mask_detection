@@ -18,6 +18,7 @@ The dataset can be downloaded from https://github.com/prajnasb/observations/tree
 
 
 ![image](https://github.com/Thushar-marvel/Face_mask_detection/blob/main/Screenshot%20(63).png)
+![image](https://github.com/Thushar-marvel/Face_mask_detection/blob/main/Screenshot%20(66).png)
 
 # Steps involved in real time face mask detector using open cv:
 1.Load pacakages: Along with above loaded package opencv is installed.
